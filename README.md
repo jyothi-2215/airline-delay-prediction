@@ -105,15 +105,4 @@ The project evaluates models using multiple metrics and provides detailed compar
 - ROC curves and AUC scores
 - Precision, recall, and F1-scores
 
-## 🎓 Academic Context
 
-This project was completed as part of CS5805 Machine Learning course, demonstrating proficiency in:
-- Data preprocessing and feature engineering
-- Supervised learning (classification and regression)
-- Unsupervised learning (clustering)
-- Model evaluation and comparison
-- Statistical analysis in machine learning
-
-## 📄 License
-
-This project is for educational purposes and academic coursework.
